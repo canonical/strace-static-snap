@@ -1,5 +1,5 @@
 version = 1
 SPDX-PackageName = "spread-static"
 SPDX-PackageSupplier = "Zygmunt Krynicki <zygmunt.krynicki@canonical.com>"
-SPDX-PackageDownloadLocation = "https://github.com/snapcore/spread-static"
+SPDX-PackageDownloadLocation = "https://github.com/canonical/spread-static"
 annotations = []
