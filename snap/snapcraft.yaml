@@ -5,7 +5,7 @@ version: "6.15"
 summary: diagnostic, debugging and instructional userspace utility
 description: |
   strace is a diagnostic, debugging and instructional userspace utility for Linux
-build-base: core22
+build-base: core24
 base: bare
 confinement: strict
 license: LGPL-2.1-or-later
